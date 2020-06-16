@@ -1,0 +1,247 @@
+/* nav-bar */
+#nav-bar .container {
+  background: var(--blue);
+  padding: 0;
+  color: #fff;
+}
+
+#nav-bar .container span {
+  font-size: 40px;
+  cursor: pointer;
+  padding: 1rem;
+}
+
+#nav-bar .container ul {
+  display: block;
+}
+
+#nav-bar .container ul a {
+  color: #fff;
+}
+
+#nav-bar .container ul li {
+  margin: 0.5rem 0 0;
+  border-bottom: 0.05rem solid var(--green);
+  padding: 0.3rem 0 0.5rem;
+}
+
+#nav-bar .container ul li:last-child {
+  border-bottom: none;
+}
+
+#nav-bar .container ul li:nth-child(4) {
+  display: none;
+}
+
+#nav-bar::after {
+  content: 'Productivefy';
+  font-size: 3rem;
+  font-family: 'Great Vibes', cursive;
+  display: block;
+  padding: 0 1rem 1rem;
+  font-weight: 400;
+  text-align: center;
+  padding-top: 1rem;
+}
+
+#nav-bar .container span {
+  display: block;
+}
+
+#nav-bar .container ul {
+  display: none;
+  padding-top: 0;
+}
+
+#nav-bar .container #hamburger {
+  display: block;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+#nav-bar .container #into-sign {
+  display: none;
+}
+
+/* showcase */
+#showcase {
+  height: 50vh;
+}
+#showcase .container h1 {
+  font-size: 1.8rem;
+  line-height: 1.4;
+}
+
+#showcase .container a.btn {
+  font-size: 13px;
+  padding: 0.75rem;
+}
+
+/* products */
+#product {
+  padding-bottom: 0;
+}
+
+#product .container .products {
+  display: block;
+  justify-content: center;
+  align-items: center;
+}
+
+#product .container .products .box {
+  height: fit-content;
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+  border-bottom: 0.05rem solid black;
+}
+
+#product .container .products .box:last-child {
+  padding-bottom: unset;
+  border-bottom: none;
+}
+
+#product .container .products .box p {
+  padding-left:  1rem;
+  padding-right:  1rem;
+}
+
+#product .container .products .box:first-child {
+  padding-top: 0;
+}
+
+#product .container h2 {
+  padding: 1rem 1rem 1rem;
+}
+
+/* creator */
+#creator {
+  display: block;
+  height: fit-content;
+}
+
+#creator .creator-content h1,
+#creator .creator-content h2,
+#creator .creator-content p {
+  padding: 1rem 1rem 1rem 2rem;
+}
+
+#creator .creator-content h1 {
+  font-family: 'Great Vibes', cursive;
+  font-weight: 400;
+  font-size: 3.2rem;
+}
+
+#creator .creator-content a {
+  margin-left: 2rem;
+  margin-top: 2rem;
+}
+
+#creator .creator-content {
+  padding-top: 2rem;
+  padding-bottom: 4rem;
+}
+
+#creator .creator-content a.btn:hover {
+  background: #35a388;
+}
+
+/* popular post */
+#popular-post .container h2 {
+  padding-bottom: 1rem;
+}
+
+#popular-post .container .posts {
+  display: block;
+}
+
+#popular-post .container .post {
+  display: block;
+  padding: 1rem 2rem;
+  height: fit-content;
+  color: #fff;
+}
+
+#popular-post .container .post-3 .post-img-3 {
+  background: #35a388 url('https://images.pexels.com/photos/1851415/pexels-photo-1851415.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260') no-repeat center center/cover;
+}
+
+#popular-post .container .post h5 {
+  margin-bottom: 1rem;
+  padding: 1rem 0 1rem;
+}
+
+#popular-post .container .post P {
+  padding-bottom: 1rem;
+}
+
+#popular-post .container a {
+  margin-top: 2rem;
+}
+
+/* signup */
+#signup {
+  display: block;
+  height: fit-content;
+}
+
+#signup .signup-content h1,
+#signup .signup-content h2,
+#signup .signup-content p {
+  padding: 1rem 1rem 1rem 2rem;
+}
+
+#signup .signup-content h1 {
+  font-family: 'Great Vibes', cursive;
+  font-weight: 400;
+  font-size: 3.2rem;
+}
+
+#signup .signup-content a {
+  margin-left: 2rem;
+  margin-top: 2rem;
+}
+
+#signup .signup-content {
+  padding-top: 2rem;
+  padding-bottom: 4rem;
+}
+
+#signup .signup-content a.btn:hover {
+  background: #35a388;
+}
+
+#signup .signup-content a {
+  margin-top: 1rem;
+}
+
+/* footer */
+#footer {
+  height: 68vh;
+}
+
+#footer h1 {
+  padding-top: 2rem;
+}
+
+#footer .footer-icons {
+  margin: 1rem 0;
+}
+#footer .footer-icons a{
+  font-size: 12px;
+}
+
+#footer .footer-links a {
+  display: block;
+  font-size: 1rem;
+  margin: 1rem 0;
+  text-align: center;
+}
+
+#footer p {
+  text-align: center;
+  margin: 1rem 0;
+}
+
+#footer p:last-child {
+  padding-bottom: 1rem;
+}
