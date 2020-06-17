@@ -2,8 +2,6 @@
 
 ## Screenshots :
 
-### Desktop view :
-
 ![alt text](https://github.com/devpavan04/productivefy/blob/master/screenshots/desktop/1.png?raw=true)
 
 <br />
@@ -26,55 +24,3 @@
 
 <br />
 <br />
-
-### Mobile view :
-
-<img src="https://github.com/devpavan04/productivefy/blob/master/screenshots/mobile/01.jpg?raw=true" alt="alt text" width="400" height="">
-
-<br />
-<br />
-<br />
-
-<img src="https://github.com/devpavan04/productivefy/blob/master/screenshots/mobile/02.jpg?raw=true" alt="alt text" width="400" height="">
-
-<br />
-<br />
-<br />
-
-<img src="https://github.com/devpavan04/productivefy/blob/master/screenshots/mobile/03.jpg?raw=true" alt="alt text" width="400" height="">
-
-<br />
-<br />
-<br />
-
-<img src="https://github.com/devpavan04/productivefy/blob/master/screenshots/mobile/04.jpg?raw=true" alt="alt text" width="400" height="">
-
-<br />
-<br />
-<br />
-
-<img src="https://github.com/devpavan04/productivefy/blob/master/screenshots/mobile/05.jpg?raw=true" alt="alt text" width="400" height="">
-
-<br />
-<br />
-<br />
-
-<img src="https://github.com/devpavan04/productivefy/blob/master/screenshots/mobile/06.jpg?raw=true" alt="alt text" width="400" height="">
-
-<br />
-<br />
-<br />
-
-<img src="https://github.com/devpavan04/productivefy/blob/master/screenshots/mobile/07.jpg?raw=true" alt="alt text" width="400" height="">
-
-<br />
-<br />
-<br />
-
-<img src="https://github.com/devpavan04/productivefy/blob/master/screenshots/mobile/08.jpg?raw=true" alt="alt text" width="400" height="">
-
-<br />
-<br />
-<br />
-
-<img src="https://github.com/devpavan04/productivefy/blob/master/screenshots/mobile/09.jpg?raw=true" alt="alt text" width="400" height="">
